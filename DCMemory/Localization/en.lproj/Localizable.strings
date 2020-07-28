@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  DCMemory
+
+  Created by Valeryia Beizer on 7/28/20.
+  Copyright © 2020 Valeryia Beizer. All rights reserved.
+*/
+
+"NewGame" = "New Game";
+"Time" = "Time remaining: ";
+"Congrats" = "Congratulation!";
+"Win" = "You're won!";
+"Finish" = "Game Over!";
+"Lose" = "You've lost!";
